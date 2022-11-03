@@ -129,6 +129,7 @@
     color: rgb(0, 247, 0);
 }
 .green{
-    background-color: green;
+    background-color: rgb(19, 189, 19);
     cursor: pointer;
+    color: #fff;
 }
